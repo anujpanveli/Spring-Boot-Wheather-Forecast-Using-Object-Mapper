@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springWeather
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sandeep-PC
+Implementation-Vendor-Id: com.weather
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/springWeathe
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
